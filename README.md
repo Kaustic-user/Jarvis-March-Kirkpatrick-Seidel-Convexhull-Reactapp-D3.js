@@ -50,4 +50,7 @@ npm start
 ```
 
 ![image](https://github.com/Kaustic-user/Jarvis-March-Kirkpatrick-Seidel-Convexhull-Reactapp-D3.js/assets/118257539/9b2353cb-bc6f-4658-b0b6-34f0ec6f4b85)
+![image](https://github.com/Kaustic-user/Jarvis-March-Kirkpatrick-Seidel-Convexhull-Reactapp-D3.js/assets/118257539/53ec1e8d-9479-42e4-8bb5-fb81b5731484)
+![image](https://github.com/Kaustic-user/Jarvis-March-Kirkpatrick-Seidel-Convexhull-Reactapp-D3.js/assets/118257539/a6ab0f59-4888-4c88-8a41-845d67207331)
+
 
