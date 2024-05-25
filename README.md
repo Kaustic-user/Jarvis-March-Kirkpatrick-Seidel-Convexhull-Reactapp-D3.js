@@ -29,12 +29,12 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Kaustic-user/Jarvis-March-Kirkpatrick-Seidel-Convexhulll-Reactapp-D3.js.git
+    git clone https://github.com/Kaustic-user/Jarvis-March-Kirkpatrick-Seidel-Convexhull-Reactapp-D3.js.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd Jarvis-March-Kirkpatrick-Seidel-Convexhulll-Reactapp-D3.js
+    cd Jarvis-March-Kirkpatrick-Seidel-Convexhull-Reactapp-D3.js
     ```
 
 3. Install the dependencies:
